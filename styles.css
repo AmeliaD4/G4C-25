@@ -1,7 +1,7 @@
 /*General*/
 body * {
     font-family: "Merriweather", serif;
-    
+    background-color: #9fb198;
   }
   
   html,
@@ -9,7 +9,6 @@ body * {
     padding: 0;
     margin: 0;
     scroll-behavior: smooth;
-    background-color: #9fb198;
   }
   
   h1,
